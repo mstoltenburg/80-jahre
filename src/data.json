@@ -1,0 +1,2272 @@
+[
+  {
+    "year": 1943,
+    "date": "11. Mai 1943",
+    "text": "Gisela wird in Wiesbaden geboren",
+    "trivia": "Auch am 11. Mai geboren wurden z.B. Salvador Dalí, spanischer Maler (1904), Marco Ferreri, italienischer Filmregisseur (1928) und Nancy Greene, kanadische Skirennläuferin (1943).",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Wiesbaden",
+        "geometry": { "type": "Point", "coordinates": [8.1659535, 50.0725636] }
+      }
+    ]
+  },
+  {
+    "year": 1962,
+    "date": "1962",
+    "text": "Napoli, Paesto, Cosenza, Roma, Firenze (Gisela & Anna)",
+    "trivia": "Im Oktober 1962 kommt es mit der Kubakrise zur Konfrontation zwischen den Vereinigten Staaten und der Sowjetunion.",
+    "country": "IT",
+    "cities": [
+      {
+        "title": "Neapel",
+        "geometry": { "type": "Point", "coordinates": [14.164202, 40.854034] }
+      },
+      {
+        "title": "Cosenza",
+        "geometry": { "type": "Point", "coordinates": [16.2317091, 39.3048315] }
+      },
+      {
+        "title": "Rom",
+        "geometry": { "type": "Point", "coordinates": [12.3711918, 41.9102088] }
+      },
+      {
+        "title": "Florenz",
+        "geometry": { "type": "Point", "coordinates": [11.1997687, 43.7799508] }
+      }
+    ]
+  },
+  {
+    "year": 1964,
+    "date": "1964",
+    "text": "zwei getrennte und zwei gemeinsame Reisen nach Prag",
+    "land": "Tschechien",
+    "country": "CZ",
+    "cities": [
+      {
+        "title": "Prag",
+        "geometry": { "type": "Point", "coordinates": [14.1538245, 50.0594725] }
+      }
+    ]
+  },
+  {
+    "year": 1965,
+    "date": "1965",
+    "text": "Warschau",
+    "country": "PL",
+    "cities": [
+      {
+        "title": "Warschau",
+        "geometry": { "type": "Point", "coordinates": [20.8963899, 52.2330335] }
+      }
+    ]
+  },
+  {
+    "year": 1966,
+    "date": "Frühjahr 1966",
+    "text": "Tessaloniki, Mittelgriechenland, Attika bis Kap Sounion - Gisela mit Joachim und Manfred Crone und noch einem Physiker (Physikertagung)",
+    "country": "GR",
+    "cities": [
+      {
+        "title": "Tessaloniki",
+        "geometry": { "type": "Point", "coordinates": [22.9254277, 40.6211907] }
+      }
+    ]
+  },
+  {
+    "year": 1966,
+    "date": "Sommer 1966",
+    "text": "Firenze Viktor & Gisela (Pension in einer Gasse hinter der Signoria)",
+    "country": "IT",
+    "cities": [
+      {
+        "title": "Florenz",
+        "geometry": { "type": "Point", "coordinates": [11.1997687, 43.7799508] }
+      }
+    ]
+  },
+  {
+    "year": 1967,
+    "date": "Jahreswechsel 1967/68",
+    "text": "Moskau und Leningrad (Bahnreise von München über Berlin nach Moskau)",
+    "trivia": "Einführung des Farbfernsehens in der Bundesrepublik Deutschland auf der 25. Großen Deutschen Funk-Ausstellung in West-Berlin am 25. August 1967 um 10:57 Uhr durch Vizekanzler Willy Brandt.",
+    "country": "RU",
+    "cities": [
+      {
+        "title": "Moskau",
+        "geometry": { "type": "Point", "coordinates": [37.0559096, 55.5815839] }
+      },
+      {
+        "title": "Sankt Petersburg",
+        "geometry": { "type": "Point", "coordinates": [29.765052, 59.9403469] }
+      }
+    ]
+  },
+  {
+    "year": 1969,
+    "date": "1. September 1969",
+    "text": "Hochzeit in München und Reise Saône et Rhone, Provence bis Sausset-les-Pins, Marseille",
+    "trivia": "Am 20. Juli 1969 findet die erste bemannte Mondlandung von Apollo 11 statt.",
+    "country": ["DE", "FR"],
+    "cities": [
+      {
+        "title": "München",
+        "geometry": { "type": "Point", "coordinates": [11.4594364, 48.1548813] }
+      },
+      {
+        "title": "Lyon",
+        "geometry": { "type": "Point", "coordinates": [4.7939309, 45.7579433] }
+      },
+      {
+        "title": "Sausset-les-Pins",
+        "geometry": { "type": "Point", "coordinates": [5.0952129, 43.3470268] }
+      },
+      {
+        "title": "Marseille",
+        "geometry": { "type": "Point", "coordinates": [5.2982488, 43.2803157] }
+      }
+    ]
+  },
+  {
+    "year": 1969,
+    "date": "Jahresende 1969",
+    "text": "Umzüge von München nach Berlin (Fredericiastraße) und nach Gießen (Promotionsstelle)",
+    "trivia": "Im Oktober 1969 wird Willy Brandt Bundeskanzler der Bundesrepublik Deutschland.",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "München",
+        "geometry": { "type": "Point", "coordinates": [11.4594364, 48.1548813] }
+      },
+      {
+        "title": "Berlin",
+        "geometry": { "type": "Point", "coordinates": [13.2599301, 52.5067296] }
+      },
+      {
+        "title": "Gießen",
+        "geometry": { "type": "Point", "coordinates": [8.6187775, 50.5807829] }
+      }
+    ]
+  },
+  {
+    "year": 1971,
+    "date": "September 1971",
+    "text": "Ristinge Langeland DK (Carolines 1. Geburtstag)",
+    "country": "DK",
+    "cities": [
+      {
+        "title": "Ristinge",
+        "geometry": { "type": "Point", "coordinates": [10.6277192, 54.8265694] }
+      }
+    ]
+  },
+  {
+    "year": 1972,
+    "date": "Oktober 1972",
+    "text": "Kongress Neuropathologie - Wien",
+    "country": "AT",
+    "cities": [
+      {
+        "title": "Wien",
+        "geometry": { "type": "Point", "coordinates": [16.2976606, 48.2206555] }
+      }
+    ]
+  },
+  {
+    "year": 1973,
+    "date": "Sommer 1973",
+    "text": "Ristinge, Langeland DK (Moritz 1 Jahr alt) „Delbakkegaard“ bei Joergen und Patricia Larsen",
+    "country": "DK",
+    "cities": [
+      {
+        "title": "Ristinge",
+        "geometry": { "type": "Point", "coordinates": [10.6277192, 54.8265694] }
+      }
+    ]
+  },
+  {
+    "year": 1974,
+    "date": "Sommer 1974",
+    "text": "Bauernhof in Carmarthenshire, Wales (mit Benni Baby)",
+    "trivia": "30. Oktober 1974 wird Muhammad Ali beim „Rumble in the Jungle” in Kinshasa (Zaire) Boxweltmeister gegen George Foreman.",
+    "country": "GB",
+    "cities": [
+      {
+        "title": "Carmarthenshire",
+        "geometry": { "type": "Point", "coordinates": [-4.514717, 51.8932147] }
+      }
+    ]
+  },
+  {
+    "year": 1975,
+    "date": "Sommer 1975",
+    "text": "Biarritz/Arcangues",
+    "country": "FR",
+    "cities": [
+      {
+        "title": "Biarritz",
+        "geometry": { "type": "Point", "coordinates": [-1.5763899, 43.470958] }
+      }
+    ]
+  },
+  {
+    "year": 1976,
+    "date": "Ostern 1976",
+    "text": "Weserbergland",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Weserbergland",
+        "geometry": { "type": "Point", "coordinates": [9.4934365, 51.9667348] }
+      }
+    ]
+  },
+  {
+    "year": 1976,
+    "date": "Sommer 1976",
+    "text": "Sonnenhof, Büsum",
+    "trivia": "August 1976 Caroline Einschulung",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Büsum",
+        "geometry": { "type": "Point", "coordinates": [8.8381013, 54.13709] }
+      }
+    ]
+  },
+  {
+    "year": 1977,
+    "date": "Ostern 1977",
+    "text": "Taormina, Sizilien (zu Bennis 3. Geburtstag)",
+    "country": "IT",
+    "cities": [
+      {
+        "title": "Taormina",
+        "geometry": { "type": "Point", "coordinates": [15.2768714, 37.8548942] }
+      }
+    ]
+  },
+  {
+    "year": 1977,
+    "date": "Pfingsten 1977",
+    "text": "Bendfeld, Probstei, Kieler Bucht bei Familie Stoltenberg",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Bendfeld",
+        "geometry": { "type": "Point", "coordinates": [10.2549729, 54.3605967] }
+      }
+    ]
+  },
+  {
+    "year": 1978,
+    "date": "Pfingsten 1978",
+    "text": "Ristinge, Langeland auf Delbakkegaard bei Jörgen & Paricia",
+    "country": "DK",
+    "cities": [
+      {
+        "title": "Ristinge",
+        "geometry": { "type": "Point", "coordinates": [10.6277192, 54.8265694] }
+      }
+    ]
+  },
+  {
+    "year": 1978,
+    "date": "Sommer 1978",
+    "text": "Cornwall (St. Ives, Bauernhof)",
+    "country": "GB",
+    "cities": [
+      {
+        "title": "St. Ives",
+        "geometry": { "type": "Point", "coordinates": [-5.4981322, 50.210647] }
+      }
+    ]
+  },
+  {
+    "year": 1979,
+    "date": "Frühsommer, Mai 1979",
+    "text": "Bendfeld, Kieler Bucht, auf dem Hof von Familie Stoltenberg",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Bendfeld",
+        "geometry": { "type": "Point", "coordinates": [10.2549729, 54.3605967] }
+      }
+    ]
+  },
+  {
+    "year": 1979,
+    "date": "Sommer 1979",
+    "text": "Normandie (Reiterhof)",
+    "country": "FR",
+    "cities": [
+      {
+        "title": "Normandie",
+        "geometry": { "type": "Point", "coordinates": [-0.7321108, 49.1241697] }
+      }
+    ]
+  },
+  {
+    "year": 1979,
+    "date": "Spätsommer 1979",
+    "text": "Kopenhagen, Louisiana, „Betriebsausflug“ der Planungsgruppe",
+    "country": "DK",
+    "cities": [
+      {
+        "title": "Kopenhagen",
+        "geometry": { "type": "Point", "coordinates": [12.5114249, 55.6712398] }
+      },
+      {
+        "title": "Louisiana Museum of Modern Art",
+        "geometry": { "type": "Point", "coordinates": [12.5397619, 55.9692178] }
+      }
+    ]
+  },
+  {
+    "year": 1980,
+    "date": "April – Ostern 1980",
+    "text": "rund Adria nach Ithaka (Benni bei Oma)",
+    "country": "GR",
+    "cities": [
+      {
+        "title": "Ithaka",
+        "geometry": { "type": "Point", "coordinates": [20.6084034, 38.4018559] }
+      }
+    ]
+  },
+  {
+    "year": 1980,
+    "date": "Juli 1980",
+    "text": "Mahdtalhaus (Kleinwalsertal) „Medaillen-Wandern“",
+    "country": "AT",
+    "trivia": "August 1980 Benni Einschulung",
+    "cities": [
+      {
+        "title": "Mahdtalhaus, Allgäuer Alpen",
+        "geometry": { "type": "Point", "coordinates": [10.1732833, 47.3666077] }
+      }
+    ]
+  },
+  {
+    "year": 1980,
+    "date": "Herbst, Oktober/November 1980",
+    "text": "Fehmarn",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Fehmarn",
+        "geometry": { "type": "Point", "coordinates": [11.0762839, 54.4686697] }
+      }
+    ]
+  },
+  {
+    "year": 1981,
+    "date": "Dezember/Januar 1981",
+    "text": "Skiferien in Irdning",
+    "trivia": "Am 8. Dezember 1980 stirbt John Lennon in New York.",
+    "country": "AT",
+    "cities": [
+      {
+        "title": "Irdning",
+        "geometry": { "type": "Point", "coordinates": [14.0978064, 47.5049826] }
+      }
+    ]
+  },
+  {
+    "year": 1981,
+    "date": "Sommer 1981",
+    "text": "Arcangues, Baskenland",
+    "trivia": "Am 11.06.1981 wird Richard von Weizsäcker Regierender Bürgermeister von Berlin.",
+    "country": "FR",
+    "cities": [
+      {
+        "title": "Arcangues",
+        "geometry": { "type": "Point", "coordinates": [-1.5285042, 43.4260821] }
+      }
+    ]
+  },
+  {
+    "year": 1982,
+    "date": "Dezember/Januar 1982",
+    "text": "Skiferien in Irdning mit Oma Bertel",
+    "country": "AT",
+    "cities": [
+      {
+        "title": "Irdning",
+        "geometry": { "type": "Point", "coordinates": [14.0978064, 47.5049826] }
+      }
+    ]
+  },
+  {
+    "year": 1982,
+    "date": "8. Mai 1982",
+    "text": "Oma Marie wird 80 (Foto: Enkel auf dem Garagendach)",
+    "trivia": "Am 24. April 1982 gewinnt Nicole mit dem Lied „Ein bißchen Frieden“ den Grand Prix Eurovision de la Chanson.",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Limburg an der Lahn",
+        "geometry": { "type": "Point", "coordinates": [8.0292625, 50.4013607] }
+      }
+    ]
+  },
+  {
+    "year": 1982,
+    "date": "Juli 1. Hälfte 1982",
+    "text": "Saalbach-Hinterglemm, AV Hintermayr Hütte (Line/Anna Irland)",
+    "country": "AT",
+    "cities": [
+      {
+        "title": "Saalbach-Hinterglemm",
+        "geometry": { "type": "Point", "coordinates": [12.6363089, 47.3932303] }
+      }
+    ]
+  },
+  {
+    "year": 1982,
+    "date": "Juli 2. Hälfte 1882",
+    "text": "Adria, Grado (Ausflug nach Venedig)",
+    "trivia": "Am 11. Juli 1982 gewinnt Italien die Fußball-Weltmeisterschaft gegen Westdeutschland (3:1)",
+    "country": "IT",
+    "cities": [
+      {
+        "title": "Grado",
+        "geometry": { "type": "Point", "coordinates": [13.3156638, 45.681353] }
+      },
+      {
+        "title": "Venedig",
+        "geometry": { "type": "Point", "coordinates": [12.22253, 45.4044248] }
+      }
+    ]
+  },
+  {
+    "year": 1983,
+    "date": "Juli 1983",
+    "text": "Sardinien, Sassari/Alghero, Hanna wird 6 Jahre alt",
+    "country": "IT",
+    "cities": [
+      {
+        "title": "Sassari",
+        "geometry": { "type": "Point", "coordinates": [8.5255483, 40.7261312] }
+      }
+    ]
+  },
+  {
+    "year": 1984,
+    "date": "Ostern/Pfingsten 1984",
+    "text": "Italien, mit Gisela Imgrund in Florenz",
+    "country": "IT",
+    "cities": [
+      {
+        "title": "Florenz",
+        "geometry": { "type": "Point", "coordinates": [11.1997687, 43.7799508] }
+      }
+    ]
+  },
+  {
+    "year": 1984,
+    "date": "Juli 1984",
+    "text": "Friesland Paesens/Leeuwarden NL",
+    "country": "NL",
+    "cities": [
+      {
+        "title": "Leeuwarden",
+        "geometry": { "type": "Point", "coordinates": [5.7773049, 53.2003066] }
+      }
+    ]
+  },
+  {
+    "year": 1984,
+    "date": "August 1984",
+    "text": "Juist und Ruttelerfeld (Fahrradtour)",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Juist",
+        "geometry": { "type": "Point", "coordinates": [6.9345504, 53.6742791] }
+      }
+    ]
+  },
+  {
+    "year": 1984,
+    "date": "10.-20. September 1984",
+    "text": "Belgirate, Lago Maggiore, IT Neurotoxikologie-Tagung und Gründung einer medizinischen Gesellschaft",
+    "country": "IT",
+    "cities": [
+      {
+        "title": "Belgirate",
+        "geometry": { "type": "Point", "coordinates": [8.5651553, 45.8409071] }
+      }
+    ]
+  },
+  {
+    "year": 1984,
+    "date": "Winter 1984",
+    "text": "Skiferien Annaberg/Dachstein",
+    "country": "AT",
+    "cities": [
+      {
+        "title": "Annaberg im Lammertal",
+        "geometry": { "type": "Point", "coordinates": [13.4263502, 47.5134794] }
+      }
+    ]
+  },
+  {
+    "year": 1985,
+    "date": "Juli 1985",
+    "text": "Bootsferien Norfolk Broads und London",
+    "country": "GB",
+    "cities": [
+      {
+        "title": "Norfolk Broads",
+        "geometry": { "type": "Point", "coordinates": [1.65371209, 52.61836901] }
+      },
+      {
+        "title": "London",
+        "geometry": { "type": "Point", "coordinates": [-0.4133827, 51.5282285] }
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "date": "März 1986",
+    "text": "Skilaufen in Arosa",
+    "country": "CH",
+    "cities": [
+      {
+        "title": "Arosa",
+        "geometry": { "type": "Point", "coordinates": [9.5392357, 46.8014815] }
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "date": "Juli 1986",
+    "text": "Segelschein Wasserburg/Lindau Bodensee mit Caroline",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Lindau",
+        "geometry": { "type": "Point", "coordinates": [9.6473353, 47.5728539] }
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "date": "Dezember/Januar 1986/87",
+    "text": "Skiferien JH am Goldeck über Spittal a.d. Drau, Östereich",
+    "country": "AT",
+    "cities": [
+      {
+        "title": "Goldeck",
+        "geometry": { "type": "Point", "coordinates": [13.4536213, 46.7579864] }
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "date": "10.-16. Mai 1987",
+    "text": "Lunteren, INA 1 (International Neurotoxicology Association)",
+    "country": "NL",
+    "cities": [
+      {
+        "title": "Lunteren",
+        "geometry": { "type": "Point", "coordinates": [5.5814593, 52.1007264] }
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "date": "März 1988",
+    "text": "Bootsferien von Sète Mittelmeer, Canal du Midi",
+    "country": "FR",
+    "cities": [
+      {
+        "title": "Sète",
+        "geometry": { "type": "Point", "coordinates": [3.5726857, 43.3781182] }
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "date": "April 1988",
+    "text": "Lothringen, JH",
+    "country": "FR",
+    "cities": [
+      {
+        "title": "Lothringen",
+        "geometry": { "type": "Point", "coordinates": [5.6049214, 48.7132003] }
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "date": "Juli 1. Hälfte 1988",
+    "text": "Oberlandhütte, Kirchberg in Tirol",
+    "country": "AT",
+    "cities": [
+      {
+        "title": "Kirchberg in Tirol",
+        "geometry": { "type": "Point", "coordinates": [12.3050264, 47.3795992] }
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "date": "Juli 2. Hälfte 1988",
+    "text": "Segelkurs in Dießen am Ammersee, Segelschule Heinrich Seidl, mit Hanna und Benjamin (Museums-Segler Albatros)",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Dießen am Ammersee",
+        "geometry": { "type": "Point", "coordinates": [11.0074473, 47.9508185] }
+      }
+    ]
+  },
+  {
+    "year": 1988,
+    "date": "Jahreswechsel 1988/1989",
+    "text": "Skilaufen JH Grindelwald (Lauberhorn, Scheidegg)",
+    "country": "CH",
+    "cities": [
+      {
+        "title": "Jugendherberge Grindelwald",
+        "geometry": { "type": "Point", "coordinates": [8.024912, 46.6289744] }
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "date": "22.-26. Mai 1989",
+    "text": "Sitges (Katalonien) – INA 2 (International Neurotoxicology Association)",
+    "country": "ES",
+    "cities": [
+      {
+        "title": "Sitges",
+        "geometry": { "type": "Point", "coordinates": [1.793163, 41.2358878] }
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "date": "Sommer 1989",
+    "text": "Segelschule Dießen am Ammersee mit Benni und Caroline (Hanna auf einem Reiterhof, Moritz bei einem Freund im Frankenwald)",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Dießen am Ammersee",
+        "geometry": { "type": "Point", "coordinates": [11.0074473, 47.9508185] }
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "date": "Juli/August 1989",
+    "text": "Bootsferien Nordirland und Rundfahrt Irland mit Hanna",
+    "country": ["GB", "IE"]
+  },
+  {
+    "year": 1990,
+    "date": "Januar/Februar 1990",
+    "text": "nach der ersten Transplant-OP (21.10.1989) Gisela im Reha-Zentrum-Mölln",
+    "trivia": "In der Nacht von Donnerstag, dem 9. November 1989 kommt es zum Fall der Berliner Mauer.",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Mölln",
+        "geometry": { "type": "Point", "coordinates": [10.6600366, 53.61468] }
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "date": "Juli 1990",
+    "text": "Ferienhaus Bretagne, Bétahon, 56190 Ambon mit Johanna (Hanna und Mama laufen)",
+    "country": "FR",
+    "cities": [
+      {
+        "title": "Bétahon",
+        "geometry": { "type": "Point", "coordinates": [-2.5141438, 47.5269192] }
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "date": "August 1990",
+    "text": "Neurotoxikologie, Kopenhagen (mit Holger Altenkirch)",
+    "country": "DK",
+    "cities": [
+      {
+        "title": "Kopenhagen",
+        "geometry": { "type": "Point", "coordinates": [12.5114249, 55.6712398] }
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "date": "September 1990",
+    "text": "11th ICN Kongress in Kyōto",
+    "country": "JP",
+    "cities": [
+      {
+        "title": "Kyōto",
+        "geometry": { "type": "Point", "coordinates": [135.5540651, 35.0980847] }
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "date": "Oktober 1990",
+    "text": "«Scientific Itinerary» Brasilien, Argentinien, Chile",
+    "country": ["AR", "CL", "BR"],
+    "cities": [
+      {
+        "title": "Rio de Janeiro",
+        "geometry": { "type": "Point", "coordinates": [-43.6107877, -22.9140457] }
+      },
+      {
+        "title": "Buenos Aires",
+        "geometry": { "type": "Point", "coordinates": [-58.5156983, -34.615796] }
+      },
+      {
+        "title": "Santiago de Chile",
+        "geometry": { "type": "Point", "coordinates": [-70.7946358, -33.4726789] }
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "date": "1.-5. Juli 1991",
+    "text": "Salsomaggiore Terme (bei Parma) – INA 3 (International Neurotoxicology Association)",
+    "country": "IT",
+    "cities": [
+      {
+        "title": "Salsomaggiore Terme",
+        "geometry": { "type": "Point", "coordinates": [9.9755194, 44.8126613] }
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "date": "Juli/August 1991",
+    "text": "mit Hanna und Anja in einem Landhaus bei Volterra (Gisela stößt von Parma mit der Bahn dazu)",
+    "country": "IT",
+    "cities": [
+      {
+        "title": "Volterra",
+        "geometry": { "type": "Point", "coordinates": [10.8523537, 43.4041337] }
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "date": "Winter 1991",
+    "text": "Skiferien in Klosters/Davos",
+    "country": "CH",
+    "cities": [
+      {
+        "title": "Davos",
+        "geometry": { "type": "Point", "coordinates": [9.7357002, 46.7649292] }
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "date": "Mai 1992",
+    "text": "30jähriges Klassentreffen Gisela, Limburg / Forsthaus im Maintal",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Limburg an der Lahn",
+        "geometry": { "type": "Point", "coordinates": [7.9925244, 50.4013419] }
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "date": "Sommer 1991",
+    "text": "Hanna mit Anja in Portugal, anschließend Treff in Kiel und Ristinge",
+    "country": ["DE", "DK"],
+    "cities": [
+      {
+        "title": "Ristinge",
+        "geometry": { "type": "Point", "coordinates": [10.6277192, 54.8265694] }
+      },
+      {
+        "title": "Kiel",
+        "geometry": { "type": "Point", "coordinates": [10.0432779, 54.3417848] }
+      }
+    ]
+  },
+  {
+    "year": 1992,
+    "date": "1992",
+    "text": "Line Hochzeit Recklinghausen",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Recklinghausen",
+        "geometry": { "type": "Point", "coordinates": [7.1737304, 51.6020569] }
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "date": "6.-11- Juni 1993",
+    "text": "Helsingør – INA 4 (International Neurotoxicology Association)",
+    "trivia": "Seit dem 30. April 1993 ist das von Sir Tim Berners-Lee 1989 entwickelte World Wide Web für jeden nutzbar.",
+    "country": "DK",
+    "cities": [
+      {
+        "title": "Helsingør",
+        "geometry": { "type": "Point", "coordinates": [12.4984098, 56.0344583] }
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "date": "1993",
+    "text": "Antwerpen, Kulturstadt Europas (zu zweit)",
+    "country": "BE",
+    "cities": [
+      {
+        "title": "Antwerpen",
+        "geometry": { "type": "Point", "coordinates": [4.2753734, 51.2604514] }
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "date": "August 1993",
+    "text": "Bootsferien GB Themse von London zur Quelle und zurück mit Moritz",
+    "country": "GB",
+    "cities": [
+      {
+        "title": "London",
+        "geometry": { "type": "Point", "coordinates": [-0.4133827, 51.5282285] }
+      },
+      {
+        "title": "Oxford",
+        "geometry": { "type": "Point", "coordinates": [-1.288787, 51.7504091] }
+      }
+    ]
+  },
+  {
+    "year": 1993,
+    "date": "Oktober 1993",
+    "text": "Little Rock, Arkansas, Tagung Neutoxikologie (Ergebnisse der Habilitationsschriften Stoltenburg und Spohr zum Alkoholsyndrom)",
+    "trivia": "Am 20. Januar 1993 wurde Bill Clinton als erster Politiker aus Arkansas zum Präsidenten der Vereinigten Staaten gewählt.",
+    "country": "US",
+    "cities": [
+      {
+        "title": "Little Rock",
+        "geometry": { "type": "Point", "coordinates": [-92.4185218, 34.7237213] }
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "date": "18.-23. September 1994",
+    "text": "12th ICN Kongress in Toronto und vorher / nachher Rundfahrt Kanada, Durchquerung mit der Bahn: Vancouver, Clearwater (Annemie), Winnipeg, Hudson Bay Churchill hin und zurück, weiter nach Toronto, Montreal und Québec – Besuch bei Annemie Kunkel (Clearwater) und bei Peter Doering (Jasper/Rockies und Edmonton)",
+    "country": "CA",
+    "cities": [
+      {
+        "title": "Toronto",
+        "geometry": { "type": "Point", "coordinates": [-79.4604576, 43.7182116] }
+      },
+      {
+        "title": "Vancouver",
+        "geometry": { "type": "Point", "coordinates": [-123.1651032, 49.2577281] }
+      },
+      {
+        "title": "Clearwater (Annemie)",
+        "geometry": { "type": "Point", "coordinates": [-120.0371232, 51.6507913] }
+      },
+      {
+        "title": "Winnipeg",
+        "geometry": { "type": "Point", "coordinates": [-97.317642, 49.8536638] }
+      },
+      {
+        "title": "Churchill",
+        "geometry": { "type": "Point", "coordinates": [-94.1620052, 58.7462903] }
+      },
+      {
+        "title": "Montreal",
+        "geometry": { "type": "Point", "coordinates": [-73.8766762, 45.5590642] }
+      },
+      {
+        "title": "Québec",
+        "geometry": { "type": "Point", "coordinates": [-71.4273149, 46.8571124] }
+      },
+      {
+        "title": "Jasper",
+        "geometry": { "type": "Point", "coordinates": [-118.0981883, 52.8789406] }
+      },
+      {
+        "title": "Edmonton",
+        "geometry": { "type": "Point", "coordinates": [-113.6575388, 53.5265673] }
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "date": "Mai 1995",
+    "text": "Kongress in Funchal, Madeira (Gisela allein)",
+    "country": "PT",
+    "cities": [
+      {
+        "title": "Funchal",
+        "geometry": { "type": "Point", "coordinates": [-16.9452701, 32.66004] }
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "date": "25.-30. Juni 1995",
+    "text": "Port Ludlow (bei Seattle) - INA 5 (International Neurotoxicology Association)",
+    "country": "US",
+    "cities": [
+      {
+        "title": "Port Ludlow",
+        "geometry": { "type": "Point", "coordinates": [-122.7270228, 47.9114921] }
+      }
+    ]
+  },
+  {
+    "year": 1995,
+    "date": "Sommer 1995",
+    "text": "Strandferien in Albufeira, Portugal, mit Übernacht-Ausflug nach Lissabon",
+    "country": "PT",
+    "cities": [
+      {
+        "title": "Albufeira",
+        "geometry": { "type": "Point", "coordinates": [-8.259187, 37.1121319] }
+      },
+      {
+        "title": "Lissabon",
+        "geometry": { "type": "Point", "coordinates": [-9.2014025, 38.7436194] }
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "date": "Sommer 1996",
+    "text": "Neurotoxikologie, Lissabon",
+    "country": "PT",
+    "cities": [
+      {
+        "title": "Lissabon",
+        "geometry": { "type": "Point", "coordinates": [-9.2014025, 38.7436194] }
+      }
+    ]
+  },
+  {
+    "year": 1996,
+    "date": "Oktober 1996",
+    "text": "Ferien auf Chalkidiki, Thessalien",
+    "country": "GR",
+    "cities": [
+      {
+        "title": "Chalkidiki",
+        "geometry": { "type": "Point", "coordinates": [23.3566924, 40.2746232] }
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "date": "30. Juni – 4. Juli 1997",
+    "text": "Szeged, Ungarn – INA 6 (International Neurotoxicology Association)",
+    "country": "HU",
+    "cities": [
+      {
+        "title": "Szeged",
+        "geometry": { "type": "Point", "coordinates": [20.0580691, 46.2327594] }
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "date": "August 1997",
+    "text": "Klassentreffen Gisela Limburg / Diez (mit Klassenlehrer Aloys Birkle)",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Limburg an der Lahn",
+        "geometry": { "type": "Point", "coordinates": [8.0292625, 50.4013607] }
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "date": "7.-12. Sept. 1997",
+    "text": "13th ICN Kongress in Perth, Australien (Hinreise über Bali und anschließend bis Ende September Durchquerung von Australien über Melbourne und Tasmanien nach Sydney)",
+    "country": ["ID", "AU"],
+    "cities": [
+      {
+        "title": "Bali",
+        "geometry": { "type": "Point", "coordinates": [114.7419402, -8.4553335] }
+      },
+      {
+        "title": "Perth",
+        "geometry": { "type": "Point", "coordinates": [115.6319067, -32.0396375] }
+      },
+      {
+        "title": "Melbourne",
+        "geometry": { "type": "Point", "coordinates": [144.7235096, -37.9721066] }
+      },
+      {
+        "title": "Sydney",
+        "geometry": { "type": "Point", "coordinates": [150.7671703, -33.8481343] }
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "date": "Oktober 1997",
+    "text": "Tagung in London (Gisela allein)",
+    "country": "GB",
+    "cities": [
+      {
+        "title": "London",
+        "geometry": { "type": "Point", "coordinates": [-0.4133827, 51.5282285] }
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "date": "Anfang Mai 1998",
+    "text": "Tagung in Athen (Gisela allein)",
+    "country": "GR",
+    "cities": [
+      {
+        "title": "Athen",
+        "geometry": { "type": "Point", "coordinates": [23.6971401, 37.99083] }
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "date": "Juni 1998",
+    "text": "Kongress in Neapel und Ferien mit Paestum, Capri, Ischia (Pfingsfest)",
+    "country": "IT",
+    "cities": [
+      {
+        "title": "Neapel",
+        "geometry": { "type": "Point", "coordinates": [14.2054031, 40.8539261] }
+      },
+      {
+        "title": "Paestum",
+        "geometry": { "type": "Point", "coordinates": [15.0043206, 40.4224771] }
+      },
+      {
+        "title": "Capri",
+        "geometry": { "type": "Point", "coordinates": [14.2405556, 40.5512377] }
+      },
+      {
+        "title": "Ischia",
+        "geometry": { "type": "Point", "coordinates": [13.9379813, 40.731453] }
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "date": "Juni 1999",
+    "text": "Kongress in Jerusalem, Abstecher nach Damaskus (Gisela allein)",
+    "country": ["SY", "IL"],
+    "cities": [
+      {
+        "title": "Jerusalem",
+        "geometry": { "type": "Point", "coordinates": [35.0929591, 31.7962921] }
+      },
+      {
+        "title": "Damaskus",
+        "geometry": { "type": "Point", "coordinates": [36.2416961, 33.5074687] }
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "date": "Juli 1999",
+    "text": "Kongress in Leicester UK (Gisela allein)",
+    "country": "GB",
+    "cities": [
+      {
+        "title": "Leicester",
+        "geometry": { "type": "Point", "coordinates": [-1.1722994, 52.63607] }
+      }
+    ]
+  },
+  {
+    "year": 1999,
+    "date": "1999",
+    "text": "Spanienrundreise mit der Eisenbahn (anlässlich Kongress in Barcelona) Barcelona, Valencia, Toledo, Granada und zurück nach Barcelona",
+    "country": "ES",
+    "cities": [
+      {
+        "title": "Barcelona",
+        "geometry": { "type": "Point", "coordinates": [2.0577895, 41.3926386] }
+      },
+      {
+        "title": "Valencia",
+        "geometry": { "type": "Point", "coordinates": [-0.443911, 39.4077562] }
+      },
+      {
+        "title": "Toledo",
+        "geometry": { "type": "Point", "coordinates": [-4.0406292, 39.862202] }
+      },
+      {
+        "title": "Granada",
+        "geometry": { "type": "Point", "coordinates": [-3.6118713, 37.1809445] }
+      }
+    ]
+  },
+  {
+    "year": 2000,
+    "date": "September / Oktober 2000",
+    "text": "Japan Rundreise auf der Insel Honshū (Reise mit „Studiosus“, Start in Tokio) – Kongress in Nagoya",
+    "country": "JP",
+    "cities": [
+      {
+        "title": "Tokio",
+        "geometry": { "type": "Point", "coordinates": [139.6584679, 35.6682156] }
+      },
+      {
+        "title": "Nagoya",
+        "geometry": { "type": "Point", "coordinates": [136.8439111, 35.1470823] }
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "date": "März 2001",
+    "text": "Hongkong, Gisela Tagung „Human Fetal Brain”",
+    "country": "CN",
+    "cities": [
+      {
+        "title": "Hongkong (香港)",
+        "geometry": { "type": "Point", "coordinates": [113.9628944, 22.3526401] }
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "date": "Mai 2001",
+    "text": "Geolog. Exkursion Bornholm („Sannes Ferie-Hütter“ bei Gudjem)",
+    "country": "DK",
+    "cities": [
+      {
+        "title": "Gudhjem",
+        "geometry": { "type": "Point", "coordinates": [14.9243513, 55.2252461] }
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "date": "Juni 2001",
+    "text": "Estoril (Nähe Lissabon), INA 8 (International Neurotoxicology Association)",
+    "country": "PT",
+    "cities": [
+      {
+        "title": "Estoril",
+        "geometry": { "type": "Point", "coordinates": [-9.4000928, 38.7097162] }
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "date": "August 2001",
+    "text": "Nordkap-Kreuzfahrt mit Hurtigrouten (Anfahrt Kiel/Oslo/Bergen – Trondheim, Oslo, Kiel)",
+    "country": "NO",
+    "cities": [
+      {
+        "title": "Oslo",
+        "geometry": { "type": "Point", "coordinates": [10.7027176, 59.8938292] }
+      },
+      {
+        "title": "Bergen",
+        "geometry": { "type": "Point", "coordinates": [5.2643703, 60.3650836] }
+      },
+      {
+        "title": "Trondheim",
+        "geometry": { "type": "Point", "coordinates": [10.3566334, 63.4339798] }
+      }
+    ]
+  },
+  {
+    "year": 2001,
+    "date": "September 2001",
+    "text": "Geolog. Exkursion Elbsandsteingebirge",
+    "trivia": "Terroranschläge am 11. September 2001 in den Vereinigten Staaten von Amerika",
+    "country": ["DE", "CZ"],
+    "cities": [
+      {
+        "title": "Elbsandsteingebirge",
+        "geometry": { "type": "Point", "coordinates": [14.1183335, 50.8330192] }
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "date": "Neujahr 2002",
+    "text": "Peking (über Hannas Reisebüro)",
+    "country": "CN",
+    "cities": [
+      {
+        "title": "Peking (北京市)",
+        "geometry": { "type": "Point", "coordinates": [116.2326552, 39.9387671] }
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "date": "Juli 2002",
+    "text": "Newcastle upon Tyne, Neurochirurgie-Kongress und Ferien",
+    "country": "GB",
+    "cities": [
+      {
+        "title": "Newcastle upon Tyne",
+        "geometry": { "type": "Point", "coordinates": [-1.6980425, 55.0023652] }
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "date": "August 2002",
+    "text": "Rostock, „Fetale Neuroanatomie“",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Rostock",
+        "geometry": { "type": "Point", "coordinates": [12.0645541, 54.1475229] }
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "date": "September 2002",
+    "text": "Stettin (Szczecin) (Besuch bei Teresa & Piotr, Neubau-Baustelle)",
+    "country": "PL",
+    "cities": [
+      {
+        "title": "Stettin",
+        "geometry": { "type": "Point", "coordinates": [14.5422245, 53.4296679] }
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "date": "Oktober 2002",
+    "text": "Essen, Tagung Umwelttoxikologie",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Essen",
+        "geometry": { "type": "Point", "coordinates": [6.933619, 51.4408784] }
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "date": "Dezember 2002",
+    "text": "Hamburg „im Schnee“, Museum „Barlachaus“ im Jenischpark, Elbe",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Hamburg",
+        "geometry": { "type": "Point", "coordinates": [9.76302, 53.5584587] }
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "date": "März 2003",
+    "text": "Münster, Benni und Ariane feiern in ihrer Wohnung Verlobung und Eltern Kennenlernen",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Münster",
+        "geometry": { "type": "Point", "coordinates": [7.5416979, 51.9500566] }
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "date": "März 2003",
+    "text": "Karneval in Venedig",
+    "country": "IT",
+    "cities": [
+      {
+        "title": "Venedig",
+        "geometry": { "type": "Point", "coordinates": [12.22253, 45.4044248] }
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "date": "Mai 2003",
+    "text": "Geolog. Exkursion Gotland (Lummelunda Wandrarhem, bei Nyhamn)",
+    "country": "SE",
+    "cities": [
+      {
+        "title": "Nyhamn",
+        "geometry": { "type": "Point", "coordinates": [18.4130805, 57.7612391] }
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "date": "Sommer 2003",
+    "text": "EMN Kongress in Graz",
+    "country": "AT",
+    "cities": [
+      {
+        "title": "Graz",
+        "geometry": { "type": "Point", "coordinates": [15.4005907, 47.0735823] }
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "date": "Herbst 2003",
+    "text": "15th ICN Kongress in Torino (14.-18. Sept) anschließend Piemont, Weingutferien am Berg",
+    "country": "IT",
+    "cities": [
+      {
+        "title": "Turin",
+        "geometry": { "type": "Point", "coordinates": [7.62889, 45.0701316] }
+      }
+    ]
+  },
+  {
+    "year": 2004,
+    "date": "Ende März 2004",
+    "text": "Madeira Wanderferien",
+    "country": "PT",
+    "cities": [
+      {
+        "title": "Madeira",
+        "geometry": { "type": "Point", "coordinates": [-16.9806323, 32.7646108] }
+      }
+    ]
+  },
+  {
+    "year": 2004,
+    "date": "Oktober 2004",
+    "text": "Ferien auf Malta in La Valetta",
+    "country": "MT",
+    "cities": [
+      {
+        "title": "Valletta",
+        "geometry": { "type": "Point", "coordinates": [14.5077583, 35.8984603] }
+      }
+    ]
+  },
+  {
+    "year": 2005,
+    "date": "Februar 2005",
+    "text": "New York – Christo und Jeanne-Claude “The Gates”",
+    "country": "US",
+    "cities": [
+      {
+        "title": "New York",
+        "geometry": { "type": "Point", "coordinates": [-74.1444845, 40.6973709] }
+      }
+    ]
+  },
+  {
+    "year": 2005,
+    "date": "August 2005",
+    "text": "Sail Rostock",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Rostock",
+        "geometry": { "type": "Point", "coordinates": [12.0645541, 54.1475229] }
+      }
+    ]
+  },
+  {
+    "year": 2005,
+    "date": "November 2005",
+    "text": "nach 2. Transplant-OP (14.09.) REHA Gisela in Waren a.d. Müritz",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Waren (Müritz)",
+        "geometry": { "type": "Point", "coordinates": [12.6058651, 53.490484] }
+      }
+    ]
+  },
+  {
+    "year": 2006,
+    "date": "2006",
+    "text": "Geolog. Exkursion Uckermark (April), Mecklenburg / Pöhl (Sept) und andere Tagestouren (Grube Bochow, Flemming, Mecklenburg)",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Uckermark",
+        "geometry": { "type": "Point", "coordinates": [13.5154952, 53.2446707] }
+      },
+      {
+        "title": "Bochow",
+        "geometry": { "type": "Point", "coordinates": [12.7474394, 52.3881698] }
+      }
+    ]
+  },
+  {
+    "year": 2006,
+    "date": "Anfang Oktober 2006",
+    "text": "Geolog. Exkursion Elbsandsteingebirge",
+    "country": ["DE", "CZ"],
+    "cities": [
+      {
+        "title": "Elbsandsteingebirge",
+        "geometry": { "type": "Point", "coordinates": [14.1183335, 50.8330192] }
+      }
+    ]
+  },
+  {
+    "year": 2006,
+    "date": "Ende Oktober 2006",
+    "text": "Ostseebad Binz auf Rügen",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Binz",
+        "geometry": { "type": "Point", "coordinates": [13.5223554, 54.4222753] }
+      }
+    ]
+  },
+  {
+    "year": 2006,
+    "date": "Dezember 2006",
+    "text": "Hamburg, „Shoppen“ und Kultur",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Hamburg",
+        "geometry": { "type": "Point", "coordinates": [9.76302, 53.5584587] }
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "date": "März 2007",
+    "text": "5. Wismarer Heringstage",
+    "trivia": "Am 9. Januar 2007 stellte Apple-Chef Steve Jobs das erste iPhone vor.",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Wismar",
+        "geometry": { "type": "Point", "coordinates": [11.4209397, 53.9039568] }
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "date": "2007 und 2008",
+    "text": "war unser „Stammsitz“ dann in Paris",
+    "country": "FR",
+    "cities": [
+      {
+        "title": "Paris",
+        "geometry": { "type": "Point", "coordinates": [2.3058358, 48.8588475] }
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "date": "August 2007",
+    "text": "Ferien in La Baule und in Biarritz",
+    "country": "FR",
+    "cities": [
+      {
+        "title": "La Baule-Escoublac",
+        "geometry": { "type": "Point", "coordinates": [-2.3827578, 47.2924563] }
+      },
+      {
+        "title": "Biarritz",
+        "geometry": { "type": "Point", "coordinates": [-1.5763899, 43.470958] }
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "date": "September 2007",
+    "text": "Naarden (bei Amsterdam NL), Myopathien (mit Prof. Fardeau IM)",
+    "country": "NL",
+    "cities": [
+      {
+        "title": "Naarden",
+        "geometry": { "type": "Point", "coordinates": [5.1426411, 52.302713] }
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "date": "Mitte Oktober 2007",
+    "text": "Kongress in Taormina („Naxos Beach“ – Überschwemmung)",
+    "country": "IT",
+    "cities": [
+      {
+        "title": "Taormina",
+        "geometry": { "type": "Point", "coordinates": [15.2768714, 37.8548942] }
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "date": "Ende Mai 2008",
+    "text": "Kongress in Marseille",
+    "country": "FR",
+    "cities": [
+      {
+        "title": "Marseille",
+        "geometry": { "type": "Point", "coordinates": [5.2982488, 43.2803157] }
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "date": "August 2008",
+    "text": "Wanderferien auf Guernsey, St. Peter Port",
+    "country": "GG",
+    "cities": [
+      {
+        "title": "Saint Peter Port",
+        "geometry": { "type": "Point", "coordinates": [-2.5242924, 49.4592552] }
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "date": "4.-8. Mai 2009",
+    "text": "Geolog. Exkursion Erzgebirge (Freiberg und Annaberg)",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Freiberg",
+        "geometry": { "type": "Point", "coordinates": [13.2934458, 50.9171061] }
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "date": "Mai 2009",
+    "text": "USA, Twin Cities (Minneapolis – Saint Paul), Benjamin im Macalister – anschließend Chicago",
+    "country": "US",
+    "cities": [
+      {
+        "title": "Chicago",
+        "geometry": { "type": "Point", "coordinates": [-87.8967673, 41.8336152] }
+      },
+      {
+        "title": "Saint Paul",
+        "geometry": { "type": "Point", "coordinates": [-93.1472526, 44.9397001] }
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "date": "Juli/August 2009",
+    "text": "Gisela nach Herzinfarkt (12.07.) REHA in Rüdersdorf",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Rüdersdorf",
+        "geometry": { "type": "Point", "coordinates": [13.7684173, 52.4525794] }
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "date": "1. September 2009",
+    "text": "München Schwabing und Starnberger See – 40. Hochzeitstag",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "München",
+        "geometry": { "type": "Point", "coordinates": [11.4594364, 48.1548813] }
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "date": "27. September 2009",
+    "text": "GEO Exkursion Havelland",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Havelland",
+        "geometry": { "type": "Point", "coordinates": [12.4893328, 52.6246253] }
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "date": "3. Oktober 2009",
+    "text": "München, bei Jodl’s anläßlich Joachims 65. Geburtstag (Gisela)",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "München",
+        "geometry": { "type": "Point", "coordinates": [11.4594364, 48.1548813] }
+      }
+    ]
+  },
+  {
+    "year": 2009,
+    "date": "Dezember 2009",
+    "text": "Paris „Dreikönigsfest im Schnee“",
+    "country": "FR",
+    "cities": [
+      {
+        "title": "Paris",
+        "geometry": { "type": "Point", "coordinates": [2.3058358, 48.8588475] }
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "date": "Januar 2010",
+    "text": "Ueckermünde am Stettiner Haff im Schnee",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Ueckermünde",
+        "geometry": { "type": "Point", "coordinates": [14.0105215, 53.7556497] }
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "date": "im Mai 2010",
+    "text": "Ueckermünde Fahrradtouren u.a. übers Haff nach Usedom/Ahlbeck Besuch von Hanna am Geburtstag",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Ueckermünde",
+        "geometry": { "type": "Point", "coordinates": [14.0105215, 53.7556497] }
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "date": "7. und 8. September 2010",
+    "text": "Besuch bei Nanni und Köhler in Schadebeuster mit Schlenz und Ingeborg, Schwimmen in der Elbe, Baden im Altarm der Elbe",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Schadebeuster (Wittenberge)",
+        "geometry": { "type": "Point", "coordinates": [11.7761213, 52.9681355] }
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "date": "Oktober 2010",
+    "text": "Rundfahrt Südtürkei, Antalya, Side, Pamukeli, Kuşadası",
+    "country": "TR",
+    "cities": [
+      {
+        "title": "Antalya",
+        "geometry": { "type": "Point", "coordinates": [30.6769057, 36.8979304] }
+      },
+      {
+        "title": "Side",
+        "geometry": { "type": "Point", "coordinates": [31.3249217, 36.7898894] }
+      },
+      {
+        "title": "Pamukkale",
+        "geometry": { "type": "Point", "coordinates": [29.1120212, 37.9152809] }
+      },
+      {
+        "title": "Kuşadası",
+        "geometry": { "type": "Point", "coordinates": [27.2402135, 37.8557002] }
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "date": "14.11.2010",
+    "text": "Uckermärkische Seen, Badingen, Gransee GEO-Exkursion",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Gransee",
+        "geometry": { "type": "Point", "coordinates": [13.158053166270044, 53.00528396070309] }
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "date": "Juni 2012",
+    "text": "Kongress ECNP 2012 in Edinburgh, anschließend „Bahn-Rundreise Scotland“: Edinburgh, Crianlarich, Mallaig, Isle of Skye, Inverness, Perth, Stirling, Glasgow (Privatreise mit Unterstützung „Rob Roy“)",
+    "country": "GB",
+    "save": [
+      {
+        "title": "Crianlarich",
+        "geometry": { "type": "Point", "coordinates": [-4.6240773, 56.3912327] }
+      },
+      {
+        "title": "Mallaig",
+        "geometry": { "type": "Point", "coordinates": [-5.8351364, 57.0023345] }
+      },
+      {
+        "title": "Perth",
+        "geometry": { "type": "Point", "coordinates": [-3.4904512, 56.3904739] }
+      }
+    ],
+    "cities": [
+      {
+        "title": "Edinburgh",
+        "geometry": { "type": "Point", "coordinates": [-3.2465379, 55.9412015] }
+      },
+      {
+        "title": "Isle of Skye",
+        "geometry": { "type": "Point", "coordinates": [-6.5476409, 57.3625393] }
+      },
+      {
+        "title": "Inverness",
+        "geometry": { "type": "Point", "coordinates": [-4.2630569, 57.4679896] }
+      },
+      {
+        "title": "Stirling",
+        "geometry": { "type": "Point", "coordinates": [-3.9602979, 56.1187036] }
+      },
+      {
+        "title": "Glasgow",
+        "geometry": { "type": "Point", "coordinates": [-4.3148576, 55.8554327] }
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "date": "29.-31. August 2012",
+    "text": "Kassel, ‚documenta13‘ mit Lim (Treffen mit Jörg)",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Kassel",
+        "geometry": { "type": "Point", "coordinates": [9.4194157, 51.3148789] }
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "date": "5.-7.Sept. 2012",
+    "text": "Tagung MRT in Lund (mit G. Brinker/Siemens)",
+    "country": "SE",
+    "cities": [
+      {
+        "title": "Lund",
+        "geometry": { "type": "Point", "coordinates": [13.1567969, 55.7049724] }
+      }
+    ]
+  },
+  {
+    "year": 2012,
+    "date": "21.10.2012",
+    "text": "GEO Exkursion Uckermark",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Uckermark",
+        "geometry": { "type": "Point", "coordinates": [13.5154952, 53.2446707] }
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "date": "April/Mai 2013",
+    "text": "Kreuzfahrt „Mittelmeer“ mit MS Berlin (Venedig/Murano, Bustransfer wegen Gepäckverlust, Küstenstraße bis Kotor, dann Korinth/Athen, Bodrum, Rhodos, Santorin, Malta, Tunis, Cagliari, Ajaccio, Livorno, Nizza/Verlängerung)",
+    "country": ["ME", "GR", "TR", "MT", "TN", "FR", "IT"],
+    "cities": [
+      {
+        "title": "Venedig",
+        "geometry": { "type": "Point", "coordinates": [12.22253, 45.4044248] }
+      },
+      {
+        "title": "Kotor",
+        "geometry": { "type": "Point", "coordinates": [18.7680012, 42.4242999] }
+      },
+      {
+        "title": "Korinth",
+        "geometry": { "type": "Point", "coordinates": [22.9202695, 37.9359484] }
+      },
+      {
+        "title": "Athen",
+        "geometry": { "type": "Point", "coordinates": [23.6971401, 37.99083] }
+      },
+      {
+        "title": "Bodrum",
+        "geometry": { "type": "Point", "coordinates": [27.4024742, 37.03579] }
+      },
+      {
+        "title": "Rhodos",
+        "geometry": { "type": "Point", "coordinates": [28.2011033, 36.435749] }
+      },
+      {
+        "title": "Santorini",
+        "geometry": { "type": "Point", "coordinates": [25.4270206, 36.4203261] }
+      },
+      {
+        "title": "Malta",
+        "geometry": { "type": "Point", "coordinates": [14.2959502, 35.9424218] }
+      },
+      {
+        "title": "Tunis",
+        "geometry": { "type": "Point", "coordinates": [10.1020783, 36.7948758] }
+      },
+      {
+        "title": "Cagliari",
+        "geometry": { "type": "Point", "coordinates": [8.9884857, 39.1693825] }
+      },
+      {
+        "title": "Ajaccio",
+        "geometry": { "type": "Point", "coordinates": [8.6646347, 41.9227354] }
+      },
+      {
+        "title": "Livorno",
+        "geometry": { "type": "Point", "coordinates": [10.2840847, 43.5395425] }
+      },
+      {
+        "title": "Nizza",
+        "geometry": { "type": "Point", "coordinates": [7.2116127, 43.7031879] }
+      }
+    ]
+  },
+  {
+    "year": 2013,
+    "date": "August 2013",
+    "text": "Nordjütland, Westküste, Binnenland und Djursland, Klintegaarden, Twedt",
+    "country": "DK"
+  },
+  {
+    "year": 2014,
+    "date": "23.-29. Juli 2014",
+    "text": "Gärtenreise „Devon“, Bahn, Bus und Fähre (Hoek van Holland – Harwich)",
+    "country": ["NL", "GB"],
+    "cities": [
+      {
+        "title": "Exeter",
+        "geometry": { "type": "Point", "coordinates": [-3.5547467, 50.7244209] }
+      },
+      {
+        "title": "Harwich",
+        "geometry": { "type": "Point", "coordinates": [1.2427101, 51.9324194] }
+      },
+      {
+        "title": "Hoek van Holland",
+        "geometry": { "type": "Point", "coordinates": [4.1106846, 51.9682466] }
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "date": "Oktober/November 2014",
+    "text": "Kreuzfahrt „Mittelmeer Atlantik“ mit MS Berlin (Verona, Nizza, Marokko, Madeira, Cádiz, Nizza, ohne Mallorca wegen Sturm)",
+    "country": ["IT", "FR", "MA", "PT", "ES"],
+    "cities": [
+      {
+        "title": "Verona",
+        "geometry": { "type": "Point", "coordinates": [10.9513321, 45.4262429] }
+      },
+      {
+        "title": "Nizza",
+        "geometry": { "type": "Point", "coordinates": [7.2116127, 43.7031879] }
+      },
+      {
+        "title": "Rabat",
+        "geometry": { "type": "Point", "coordinates": [-6.8984621, 33.969212] }
+      },
+      {
+        "title": "Casablanca",
+        "geometry": { "type": "Point", "coordinates": [-7.6281918, 33.5722807] }
+      },
+      {
+        "title": "Madeira",
+        "geometry": { "type": "Point", "coordinates": [-16.9806323, 32.7646108] }
+      },
+      {
+        "title": "Cádiz",
+        "geometry": { "type": "Point", "coordinates": [-6.3030667, 36.5163846] }
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "date": "3. Mai 2015",
+    "text": "GEO Exkursion Naturpark Barnim, Nonnenfließ",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Naturpark Barnim",
+        "geometry": { "type": "Point", "coordinates": [13.2854831, 52.747326] }
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "date": "11. Mai 2015",
+    "text": "Münster (Schloss Nordkirchen FH für Finanzen) und Aachen mit Heinsberg, Intern. Gitarren-Festival, alles mit Benjamin",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Münster",
+        "geometry": { "type": "Point", "coordinates": [7.5416979, 51.9500566] }
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "date": "10./11. August 2015",
+    "text": "Kurzreise Peenetal, Wolgast, Zinnowitz auf Usedom",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Peenetal",
+        "geometry": { "type": "Point", "coordinates": [13.8124656, 53.8690295] }
+      },
+      {
+        "title": "Wolgast",
+        "geometry": { "type": "Point", "coordinates": [13.7617518, 54.0483411] }
+      },
+      {
+        "title": "Zinnowitz",
+        "geometry": { "type": "Point", "coordinates": [13.8876005, 54.0709586] }
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "date": "August bis Oktober 2015",
+    "text": "Cuenca (Spanien) hin (Loire) und zurück (Rhone)",
+    "country": ["FR", "DE", "ES"],
+    "cities": [
+      {
+        "title": "Cuenca",
+        "geometry": { "type": "Point", "coordinates": [-2.1686244, 40.0619703] }
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "date": "14. Februar 2016",
+    "text": "Szczecin Filharmonia und Teresa & Piotr",
+    "country": "PL",
+    "cities": [
+      {
+        "title": "Stettin",
+        "geometry": { "type": "Point", "coordinates": [14.5422245, 53.4296679] }
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "date": "8. – 24. Juni 2016",
+    "text": "Kreuzfahrt „Rund Ostsee“ mit MS Albatros – anschließend bis 28. Juni Sahlenburg am Meer vor Cuxhafen",
+    "country": ["DE", "PL", "LV", "EE", "RU", "FI", "SE"],
+    "cities": [
+      {
+        "title": "Sahlenburg",
+        "geometry": { "type": "Point", "coordinates": [8.6062229, 53.8604848] }
+      },
+      {
+        "title": "Bremerhaven",
+        "geometry": { "type": "Point", "coordinates": [8.4933433, 53.5429796] }
+      },
+      {
+        "title": "Kiel",
+        "geometry": { "type": "Point", "coordinates": [10.0432779, 54.3417848] }
+      },
+      {
+        "title": "Wismar",
+        "geometry": { "type": "Point", "coordinates": [11.4209397, 53.9039568] }
+      },
+      {
+        "title": "Borgholm",
+        "geometry": { "type": "Point", "coordinates": [16.6536299, 56.8766926] }
+      },
+      {
+        "title": "Stockholm",
+        "geometry": { "type": "Point", "coordinates": [17.817252, 59.326038] }
+      },
+      {
+        "title": "Mariehamn",
+        "geometry": { "type": "Point", "coordinates": [19.9014998, 60.094548] }
+      },
+      {
+        "title": "Luleå",
+        "geometry": { "type": "Point", "coordinates": [22.099982, 65.5866397] }
+      },
+      {
+        "title": "Kemi",
+        "geometry": { "type": "Point", "coordinates": [24.1103551, 65.5659826] }
+      },
+      {
+        "title": "Turku",
+        "geometry": { "type": "Point", "coordinates": [22.0594089, 60.4319308] }
+      },
+      {
+        "title": "Helsinki",
+        "geometry": { "type": "Point", "coordinates": [24.85388, 60.1100614] }
+      },
+      {
+        "title": "Kronstadt",
+        "geometry": { "type": "Point", "coordinates": [29.6985179, 59.9984061] }
+      },
+      {
+        "title": "St. Petersburg",
+        "geometry": { "type": "Point", "coordinates": [29.7650611, 59.940003] }
+      },
+      {
+        "title": "Tallin",
+        "geometry": { "type": "Point", "coordinates": [24.573441, 59.4715893] }
+      },
+      {
+        "title": "Riga",
+        "geometry": { "type": "Point", "coordinates": [23.9642725, 56.9716492] }
+      },
+      {
+        "title": "Gdańsk (Danzig)",
+        "geometry": { "type": "Point", "coordinates": [18.607628, 54.3610593] }
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "date": "11.-17. Mai 2017",
+    "text": "„Fährtour/Städtereise“ mit Finnline Travemünde-Helsinki (Viktor)",
+    "country": "FI",
+    "cities": [
+      {
+        "title": "Helsinki",
+        "geometry": { "type": "Point", "coordinates": [24.85388, 60.1100614] }
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "date": "Ende Juni 2017",
+    "text": "Vejstrupgaard bei Hanna und Poul Thomsen",
+    "country": "DK"
+  },
+  {
+    "year": 2017,
+    "date": "2. – 4. September 2017",
+    "text": "Kassel, ‚documenta14‘",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Kassel",
+        "geometry": { "type": "Point", "coordinates": [9.4194157, 51.3148789] }
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "date": "Oktober 2017",
+    "text": "Kranichflug Rügen und Hiddensee - Pension „Alte Schule“ Schulstr.1, 18569 Kluis",
+    "country": "DE",
+    "cities": [
+      {
+        "title": "Kluis",
+        "geometry": { "type": "Point", "coordinates": [13.319210957179429, 54.47063268489263] }
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "date": "Mai 2018",
+    "text": "Firence (Anna Familie) und Rom „mit einer Kennerin“ (SKR)",
+    "country": "IT",
+    "cities": [
+      {
+        "title": "Rom",
+        "geometry": { "type": "Point", "coordinates": [12.3711918, 41.9102088] }
+      },
+      {
+        "title": "Florenz",
+        "geometry": { "type": "Point", "coordinates": [11.1997687, 43.7799508] }
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "date": "Juli 2018",
+    "text": "„Rund Dänemark“: Falster, Lolland, Langeland, Fünen, Süd-Jütland, Enghoejgård in Hjarup",
+    "country": "DK",
+    "cities": [
+      {
+        "title": "Falster",
+        "geometry": { "type": "Point", "coordinates": [11.7704771, 54.763444] }
+      },
+      {
+        "title": "Lolland",
+        "geometry": { "type": "Point", "coordinates": [11.2459951, 54.7771603] }
+      },
+      {
+        "title": "Langeland",
+        "geometry": { "type": "Point", "coordinates": [10.6110617, 54.9431639] }
+      },
+      {
+        "title": "Fünen",
+        "geometry": { "type": "Point", "coordinates": [9.9370767, 55.3242455] }
+      },
+      {
+        "title": "Jütland",
+        "geometry": { "type": "Point", "coordinates": [8.1619344, 55.7906202] }
+      },
+      {
+        "title": "Hjarup",
+        "geometry": { "type": "Point", "coordinates": [9.3588132, 55.4463544] }
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "date": "7. – 20. Juni 2019",
+    "text": "Island Kreuzfahrt mit MS Berlin (über Shetland, Faröer, Orkney)",
+    "country": ["FO", "IS"],
+    "cities": [
+      {
+        "title": "Bremerhaven",
+        "geometry": { "type": "Point", "coordinates": [8.4933433, 53.5429796] }
+      },
+      {
+        "title": "Shetland",
+        "geometry": { "type": "Point", "coordinates": [-1.2408098, 60.3469565] }
+      },
+      {
+        "title": "Heimaey",
+        "geometry": { "type": "Point", "coordinates": [-20.3116002, 63.4267918] }
+      },
+      {
+        "title": "Reykjavík",
+        "geometry": { "type": "Point", "coordinates": [-21.934841, 64.1334671] }
+      },
+      {
+        "title": "Grundarfjörður",
+        "geometry": { "type": "Point", "coordinates": [-23.2733346, 64.9250323] }
+      },
+      {
+        "title": "Ísafjörður",
+        "geometry": { "type": "Point", "coordinates": [-23.2531661, 66.0538374] }
+      },
+      {
+        "title": "Akureyri",
+        "geometry": { "type": "Point", "coordinates": [-18.2912729, 65.6691946] }
+      },
+      {
+        "title": "Seyðisfjörður",
+        "geometry": { "type": "Point", "coordinates": [-14.0199281, 65.2627385] }
+      },
+      {
+        "title": "Färöer",
+        "geometry": { "type": "Point", "coordinates": [-8.2017476, 61.8937831] }
+      },
+      {
+        "title": "Orkney",
+        "geometry": { "type": "Point", "coordinates": [-2.7633596, 58.9365991] }
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "date": "2 Wochen im September 2020",
+    "text": "Vejstrupgaard bei Hanne und Poul Thomsen, Viktor wird 79 unterm Dannebro",
+    "country": "DK",
+    "cities": [
+      {
+        "title": "Moskau",
+        "geometry": { "type": "Point", "coordinates": [] }
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "date": "September 2021",
+    "text": "Paris „Wrapped Arc de Triomphe”.",
+    "country": "FR",
+    "cities": [
+      {
+        "title": "Paris",
+        "geometry": { "type": "Point", "coordinates": [2.3058358, 48.8588475] }
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "date": "Mai 2022",
+    "text": "Riva del Garda (Bahnreise in Etappen: Bamberg, Rovereto, Rosenheim), Besuch bei Familie Spohr in Muslone am Steilufer über Gargnano",
+    "country": ["IT", "DE", "AT"],
+    "cities": [
+      {
+        "title": "Riva del Garda",
+        "geometry": { "type": "Point", "coordinates": [10.8284763, 45.8946763] }
+      },
+      {
+        "title": "Rovereto",
+        "geometry": { "type": "Point", "coordinates": [11.0099412, 45.8832074] }
+      },
+      {
+        "title": "Muslone",
+        "geometry": { "type": "Point", "coordinates": [10.690365, 45.7116661] }
+      },
+      {
+        "title": "Bamberg",
+        "geometry": { "type": "Point", "coordinates": [10.8524054, 49.8856318] }
+      },
+      {
+        "title": "Rosenheim",
+        "geometry": { "type": "Point", "coordinates": [12.0623162, 47.8480696] }
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "date": "Dezember 2022",
+    "text": "„Advent in Kent“ Bahnreise: Brüssel, London, 10 Tage Canterbury, Dover, Calais, Lille, Brüssel, Aachen, Düsseldorf, Berlin",
+    "country": ["DE", "GB", "FR", "BE"],
+    "cities": [
+      {
+        "title": "Brüssel",
+        "geometry": { "type": "Point", "coordinates": [4.3342179, 50.8551167] }
+      },
+      {
+        "title": "London",
+        "geometry": { "type": "Point", "coordinates": [-0.4133827, 51.5282285] }
+      },
+      {
+        "title": "Berlin",
+        "geometry": { "type": "Point", "coordinates": [13.2599301, 52.5067296] }
+      },
+      {
+        "title": "Canterbury",
+        "geometry": { "type": "Point", "coordinates": [1.0632514, 51.2785421] }
+      },
+      {
+        "title": "Dover",
+        "geometry": { "type": "Point", "coordinates": [1.2803898, 51.1262826] }
+      },
+      {
+        "title": "Calais",
+        "geometry": { "type": "Point", "coordinates": [1.8483819, 50.9518853] }
+      },
+      {
+        "title": "Lille",
+        "geometry": { "type": "Point", "coordinates": [3.0056986, 50.6310733] }
+      },
+      {
+        "title": "Aachen",
+        "geometry": { "type": "Point", "coordinates": [6.0141254, 50.759512] }
+      },
+      {
+        "title": "Düsseldorf",
+        "geometry": { "type": "Point", "coordinates": [6.731951, 51.2384258] }
+      }
+    ]
+  }
+]
