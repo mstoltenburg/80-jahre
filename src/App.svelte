@@ -20,6 +20,7 @@
   let showGlobe = false;
   let headline = 'In 80 Jahren um die Welt';
   let year = 1943;
+  let countries = new Set();
 
   onMount(() => {
     const root = am5.Root.new('chartdiv', {});
@@ -66,7 +67,7 @@
       am5map.MapPolygonSeries.new(root, {
         geoJSON: am5geodata_world,
         geodataNames: am5geodata_lang_DE,
-        exclude: ['AQ'],
+        // exclude: ['AQ'],
       })
     );
     polygonSeries.mapPolygons.template.setAll({
@@ -151,10 +152,12 @@
         //   target.set('active', false);
         // }
         target.states.applyAnimate('mark');
+        countries = countries.add(country);
+        console.log(countries);
+        // target.set('mark', true);
         // target.set('fill', colors.next());
 
         if (zoom) {
-          console.log('zoom', country);
           if (showGlobe) {
             let centroid = target.geoCentroid();
             if (centroid) {
@@ -164,8 +167,6 @@
           } else {
             polygonSeries.zoomToDataItem(target.dataItem);
           }
-        } else {
-          console.log('no zoom', country);
         }
       }
     }
@@ -200,19 +201,20 @@
         index -= direction;
         item = undefined;
         pointSeries.data.setAll([]);
-        chart.goHome();
+        // chart.goHome();
         setTimeout(() => {
           chart.set('projection', am5map.geoOrthographic());
           chart.set('panX', 'rotateX');
           chart.set('panY', 'rotateY');
-          chart.series.push(
-            am5map.MapPolygonSeries.new(root, {
-              geoJSON: am5geodata_world,
-              geodataNames: am5geodata_lang_DE,
-              include: ['AQ'],
-            })
-          );
+          // chart.series.push(
+          //   am5map.MapPolygonSeries.new(root, {
+          //     geoJSON: am5geodata_world,
+          //     geodataNames: am5geodata_lang_DE,
+          //     include: ['AQ'],
+          //   })
+          // );
           backgroundSeries.mapPolygons.template.set('fillOpacity', 0.1);
+          // chart.goHome();
           chart.animate({
             key: 'rotationX',
             from: 0,
@@ -220,7 +222,10 @@
             duration: 30000,
             loops: Infinity,
           });
-        }, 3000);
+          setTimeout(() => {
+            chart.goHome();
+          }, 1000);
+        }, 10);
         return;
       }
       item = data[index];
@@ -244,6 +249,18 @@
           break;
         case 'ArrowRight':
           showEvent(1);
+          break;
+        case 'ArrowUp':
+          console.log(23);
+          // chart.animate({
+          //   key: 'translateY',
+          //   from: 0,
+          //   to: 50,
+          //   duration: 300,
+          // });
+          break;
+        case 'ArrowDown':
+          console.log(23);
           break;
       }
     });
@@ -289,13 +306,11 @@
 
   function setYear() {
     const newIndex = data.findIndex(i => i.year === parseInt(this.value, 10));
-    console.log(this.value, year, newIndex);
     if (newIndex > 0) {
       index = newIndex - 1;
       window.dispatchEvent(new CustomEvent('showevent'));
     }
     this.blur();
-    console.log(Number.isInteger(this.value), Number.isInteger(year));
   }
 </script>
 
@@ -307,23 +322,26 @@
       {index === -1 ? headline : year}
     </h1>
   </header>
-  <div id="chartdiv" />
+  <div id="chartdiv"></div>
 
-  <aside class="sidebar">
-    {#if item}
-      <div class="info">
-        <h2>{item.date}</h2>
-        {item.text}
-      </div>
-      {#if item.trivia}
-        <div class="info">
-          <h2>Trivia</h2>
-          {item.trivia}
-        </div>
-      {/if}
-    {/if}
-  </aside>
 </main>
+
+<aside class="sidebar">
+  <!-- {data.length} -->
+  <!-- {countries.size} -->
+  {#if item}
+    <div class="info">
+      <h2>{item.date}</h2>
+      {item.text}
+    </div>
+    {#if item.trivia}
+      <div class="info">
+        <h2>Trivia</h2>
+        {item.trivia}
+      </div>
+    {/if}
+  {/if}
+</aside>
 
 <div class="control">
   <button on:click={goHome}>
@@ -370,12 +388,13 @@
   main {
     margin: auto;
     height: 100vh;
+    overflow: hidden;
     display: grid;
-    grid-template-columns: 1fr 25%;
+    grid-template-columns: 1fr;
     grid-template-rows: auto 1fr;
     grid-template-areas:
-      'header header'
-      'stage sidebar';
+      'header'
+      'stage';
   }
   header {
     grid-area: header;
@@ -386,8 +405,8 @@
     margin: 0;
   }
   h2 {
-    font-size: 1.5rem;
-    margin: 0 0 0.25em;
+    font-size: inherit;
+    margin: 0 0 0.2em;
   }
   input[type='checkbox'] {
     display: none;
@@ -405,16 +424,20 @@
     grid-area: stage;
   }
   .sidebar {
-    grid-area: sidebar;
+    /*    grid-area: sidebar;*/
     padding: 0 1em;
+    position: fixed;
+    right: 0;
+    top: 12rem;
+    width: 25%;
   }
   .info {
-    border-radius: 1em;
-    box-shadow: 0 0 0.2rem #666;
-    background-color: #f2f2f2;
-    font-size: 1.5rem;
-    margin-bottom: 1em;
-    padding: 1em;
+    border-radius: 1rem;
+    border: 2px solid #cccccf;
+    background-color: rgba(248, 248, 248, .9);
+    font-size: 1.625rem;
+    margin-bottom: 1rem;
+    padding: .7rem 1rem;
   }
   .control {
     position: fixed;

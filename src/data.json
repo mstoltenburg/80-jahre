@@ -719,7 +719,7 @@
     "year": 1990,
     "date": "Oktober 1990",
     "text": "«Scientific Itinerary» Brasilien, Argentinien, Chile",
-    "country": ["AR", "CL", "BR"],
+    "country": ["BR", "CL", "AR"],
     "cities": [
       {
         "title": "Rio de Janeiro",
